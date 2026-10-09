@@ -62,4 +62,4 @@ An interactive Business Intelligence dashboard designed to analyze **Nike's sale
 
 ## 🚀 How to Run / View the Dashboard
 
-Example Example: ![Dashboard Preview](Nike Dashboard.png)
+Example Example: ![Nike Dashboard.png]((https://github.com/Rajanlabs/Nike_Sales_PowerBi_Dashboard/blob/main/Nike%20Dashboard.png))
