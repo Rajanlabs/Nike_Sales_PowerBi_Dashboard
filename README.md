@@ -64,4 +64,4 @@ An interactive Business Intelligence dashboard designed to analyze **Nike's sale
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/nike-sales-dashboard.git](https://github.com/your-username/nike-sales-dashboard.git)
+   git clone [https://github.com/your-username/nike-sales-dashboard.git]([https://github.com/your-username/nike-sales-dashboard.git](https://github.com/Rajanlabs/Nike_Sales_PowerBi_Dashboard/blob/main/Nike%20Dashboard.png))
