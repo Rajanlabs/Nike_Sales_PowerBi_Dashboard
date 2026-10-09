@@ -2,7 +2,6 @@
 
 An interactive Business Intelligence dashboard designed to analyze **Nike's sales performance, profitability, regional distribution, and product metrics** across multiple retail channels.
 
-![Nike Dashboard](path/to/your/screenshot.png) <!-- Replace with your image link or relative repo path -->
 
 ---
 
